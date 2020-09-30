@@ -18,3 +18,7 @@ else
 	let count2++
 fi
 done
+
+echo "Head Won : $count1"
+echo "Tail Won : $count2"
+
